@@ -25,9 +25,10 @@ The following **required** functionality is completed:
   * [x]  Required: Repair the create and verify signature code
 
 6\. Encrypted Message 2
-  * [ ]  Required: Decrypt the message
-  * [ ]  Required: Verify the message
-  * [ ]  Required: Include a response message in this README
+  * [x]  Required: Decrypt the message
+  * [x]  Required: Verify the message
+  * [x]  Required: Include a response message in this README
+  * Response: [Response email](messages/objective6/response.txt)
 
 7\. Agent Messages
   * [ ]  Required: Repair the dropbox code
