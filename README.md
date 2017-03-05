@@ -7,11 +7,12 @@ Time spent: **X** hours spent in total
 The following **required** functionality is completed:
 
 1\. Symmetric Encrypt/Decrypt
-  * [ ]  Required: Repair the symmetric encrypt and decrypt code
+  * [x]  Required: Repair the symmetric encrypt and decrypt code
 
 2\. Encrypted Message 1
-  * [ ]  Required: Decrypt the government message
-  * [ ]  Required: Encrypt a response and include in this README
+  * [x]  Required: Decrypt the government message
+  * [x]  Required: Encrypt a response and include in this README
+  * Response: tgB/TJDVZ71dc4MX4qZQpeDMfD994Qr6kfnK0gEkNa9rvOHtb1eNTYiICLVHNfZAk6lr/arQPl7AEs4AFARDun24J6GMYuqaQOkaCxC+OKa1o/wk5BzAvbHJQSq5eISCTmyBi4hMjPAm3wxDJEFelA==
 
 3\. Generate Public-Private Keys
   * [ ]  Required: Repair the key generator code
