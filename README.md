@@ -31,15 +31,15 @@ The following **required** functionality is completed:
   * Response: [Response email](messages/objective6/response.txt)
 
 7\. Agent Messages
-  * [ ]  Required: Repair the dropbox code
-  * [ ]  Required: Repair the messages area
-  * [ ]  Required: Display encrypted messages for all agents
-  * [ ]  Required: Messages indicate whether the message signature is valid
-  * [ ]  Required: Your messages are automatically decrypted
+  * [x]  Required: Repair the dropbox code
+  * [x]  Required: Repair the messages area
+  * [x]  Required: Display encrypted messages for all agents
+  * [x]  Required: Messages indicate whether the message signature is valid
+  * [x]  Required: Your messages are automatically decrypted
 
 8\. Identify the Double Agent
-  * [ ]  Required: Decrypt as many email messages as possible
-  * [ ]  Required: Identify the double agent: ____________________
+  * [x]  Required: Decrypt as many email messages as possible
+  * [x]  Required: Identify the double agent: Natasha
 
 The following objectives are **optional**:
 
