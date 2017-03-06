@@ -23,15 +23,15 @@
     <link rel="stylesheet" media="all" href="<?php echo DOC_ROOT . '/includes/styles.css'; ?>" />
   </head>
   <body>
-    
+
     <a href="<?php echo url_for('/agents/index.php'); ?>">Back to List</a>
     <br/>
 
     <h1>Public Key for <?php echo h($agent['codename']); ?></h1>
-    
+
     <div>
       <p><pre><?php echo h($agent['public_key']); ?></pre></p>
     </div>
-    
+
   </body>
 </html>
