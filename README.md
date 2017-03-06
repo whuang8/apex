@@ -61,7 +61,7 @@ The following objectives are **optional**:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='apex-demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='apex_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
